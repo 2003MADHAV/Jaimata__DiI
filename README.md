@@ -1,7 +1,9 @@
 # Jaimata__DiI
 
 #Title: Journey Guardian
+
 Introduction:
+
 In an increasingly connected world, ensuring personal safety during travel has become a paramount concern. Journey Guardian is an innovative application designed to address this concern by providing real-time route navigation combined with a robust safety tracking feature. This application is tailored to offer the shortest and safest routes while continuously monitoring the user's safety through periodic check-ins. If the user is in distress, Journey Guardian promptly alerts a dedicated response team, which then informs the nearest police station to take necessary actions. By merging advanced navigation with proactive safety measures, Journey Guardian aims to revolutionize the way we perceive and experience travel safety.
 
 Abstract:
